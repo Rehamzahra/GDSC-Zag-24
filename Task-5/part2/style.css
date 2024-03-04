@@ -1,0 +1,25 @@
+.element {
+    width: 180px;
+    height: 90px;
+   display: inline-block;
+   background-color: rgb(184, 176, 176);
+   text-align: center;
+   margin: 10px;
+   padding-top: 50px;
+   outline: 5px solid black;
+   
+  }
+  .element-1{
+    border:5px solid red ;
+  }
+  
+  .element-2{
+    border:5px ;
+    border-style:  solid;
+    border-color: blue green blue green;
+  }
+  .element-3{
+    border:5px;
+    border-style:  dashed;
+    border-color: red green blue yellow;
+  }
